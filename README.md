@@ -2,6 +2,8 @@
 # To Do List | Web App
 
 ### Overview
+Object-oriented Pure JavaScript Todo list with powered by browser localstorage functionality. Todo Lists will be saved even if the page reloads.
+
 You can add new task, edit current a task, mark task completed or pending and event delete the tasks. Switch button added when a user edits a task for edit or add fresh new task. Same input box has been used for both add new task or edit existing one.
 
 #### Demo
