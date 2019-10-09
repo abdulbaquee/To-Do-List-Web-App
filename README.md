@@ -37,9 +37,15 @@ You can add new task, edit current a task, mark task completed or pending and ev
 - Boostrap 4.0
 - Fontawesome icons
 
-### Screen mock ups
-![To Do List Landing Page](todo.png)
-To Do List.
+### Screenshots
+![Initial Landing Page](./screenshots/initial-page.png?raw=true "Initial Landing Page")
+Initial Landing Page.
+
+![To Do Lists Page](./screenshots/todo-lists-page.png?raw=true "To Do Lists Page")
+To Do Lists Page.
+
+![To Do Lists Switch Page](./screenshots/todo-list-switch-page.png?raw=true "To Do Lists Switch Page")
+To Do Lists Switch Page.
 
 ### Assets
 Use [Fontawesome](https://fontawesome.com/icons) to search and pick icons. Basic usage of fontawesome can be learnt by going through this [link](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
