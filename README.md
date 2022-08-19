@@ -8,37 +8,37 @@ You can add new tasks, edit current tasks, mark tasks completed or pending and e
 #### Demo
 ##### Manage todo lists with ease. Powerful, easy to use and customizable. View the [Demo](https://jsfiddle.net/abdulbaquee/hs36acbf/4/).
 
-#### 
-
+####
 - **Landing Page**
-    - Blank page will be displayed once page will load into the browser for first time
-    - If already added any tasks then those tasks will be listed below the submit button
-    - Add a new Task
-    - List of Tasks
-    - Edit Task
-    - Delete Task
-    - Marked as completed
-    - Task status
-    - No page refresh
-    - Switch button added for switching between add a Task
-    - Bootstrap 4.0 css framework added for responsive design
-    - Font awesome css it's font used for icons for edit or delete
-    - Browser localstorage feature is used for storing data
+  - Blank page will be displayed once page will load into the browser for first time
+  - If already added any tasks then those tasks will be listed below the submit button
+  - Add a new Task
+  - List of Tasks
+  - Edit Task
+  - Delete Task
+  - Marked as completed
+  - Task status
+  - No page refresh
+  - Switch button added for switching between add a Task
+  - Bootstrap 4.0 css framework added for responsive design
+  - Font awesome css it's font used for icons for edit or delete
+  - Browser localstorage feature is used for storing data
 
-
-#### Learning prerequisites
-- ES6 Concepts
-- Oops concepts for DRY code
-- DOM Manipulation
-- Browser localstorage
-- Variables and Data structures
-- JS Events
-- CSS Layout: Grid/Flexbox
-- Responsive Web Design
-- Bootstrap 4.0
-- Fontawesome icons
+####
+- **Learning prerequisites**
+  - ES6 Concepts
+  - Oops concepts for DRY code
+  - DOM Manipulation
+  - Browser localstorage
+  - Variables and Data structures
+  - JS Events
+  - CSS Layout: Grid/Flexbox
+  - Responsive Web Design
+  - Bootstrap 4.0
+  - Fontawesome icons
 
 ### Screenshots
+
 ![Initial Landing Page](./screenshots/initial-page.png?raw=true "Initial Landing Page")
 Initial Landing Page.
 
