@@ -1,33 +1,32 @@
-
 # To Do List | Web App
 
 ### Overview
-Object-oriented Pure JavaScript Todo list with powered by browser localstorage functionality. Todo Lists will be saved even if the page reloads.
+Object-oriented Pure JavaScript Todo list powered by browser localstorage functionality. Todo Lists will be saved even if the page reloads.
 
-You can add new task, edit current a task, mark task completed or pending and event delete the tasks. Switch button added when a user edits a task for edit or add fresh new task. Same input box has been used for both add new task or edit existing one.
+You can add new tasks, edit current tasks, mark tasks completed or pending and even delete the tasks. Switch button added when a user edits a task for edit or add fresh new task. Same input box has been used for both adding new tasks or editing existing ones.
 
 #### Demo
-##### Manage todo lists with ease. Powerful, easy to use and customizable. View the demo. [Demo](https://jsfiddle.net/abdulbaquee/hs36acbf/4/).
+##### Manage todo lists with ease. Powerful, easy to use and customizable. View the [Demo](https://jsfiddle.net/abdulbaquee/hs36acbf/4/).
 
 #### 
 
 - **Landing Page**
-    - Blank page will be displayed once page will load into the browser for first time
-    - If already added any tasks then those tasks will be listed below the submit button
-    - Add new Task
-    - List of Taks
-    - Edit task
-    - Delete Task
-    - Marked as completed
-    - Task status
-    - No page refresh
-    - Switch button added for switching between add task
-    - Boostrap 4.0 css framework added for responsive design
-    - Font awesome css it's font used for icons for edit or delete
-    - Browser localstorage feature is used for storing data
+    - Blank page will be displayed once page will load into the browser for first time
+    - If already added any tasks then those tasks will be listed below the submit button
+    - Add a new Task
+    - List of Tasks
+    - Edit Task
+    - Delete Task
+    - Marked as completed
+    - Task status
+    - No page refresh
+    - Switch button added for switching between add a Task
+    - Bootstrap 4.0 css framework added for responsive design
+    - Font awesome css it's font used for icons for edit or delete
+    - Browser localstorage feature is used for storing data
 
 
-#### Learning pre-requisites
+#### Learning prerequisites
 - ES6 Concepts
 - Oops concepts for DRY code
 - DOM Manipulation
@@ -36,7 +35,7 @@ You can add new task, edit current a task, mark task completed or pending and ev
 - JS Events
 - CSS Layout: Grid/Flexbox
 - Responsive Web Design
-- Boostrap 4.0
+- Bootstrap 4.0
 - Fontawesome icons
 
 ### Screenshots
@@ -62,20 +61,20 @@ Write the HTML structure single page.
 Use fontawesome for edit and delete button.
 
 ##### Task 3
-Bootstrap css include into section of html file.
+Bootstrap css included into section of html file.
 
 ##### Task 4
-Render 2 rows layout for rendering add new task and list of taks.
+Render 2 rows layout for rendering add new task and list of tasks.
 Use unordered lists for showing task
 
 ##### Task 5
-Add a input box for adding task. Add new button to save
+Add an input box for adding tasks. Add new button to save
 
 ##### Task 6
 Validate input field for empty and even trim input field
 
 ##### Task 7
-Use localstorage for storing and retriving data if browser refresh
+Use localstorage for storing and retrieving data if browser refresh
 
 ##### Task 8
 Show couple of comments on the posts, if there are any
@@ -84,4 +83,4 @@ Show couple of comments on the posts, if there are any
 Reset form after storing data
 
 ##### Task 10
-Change add new task button's value "Add Todo" to "Update Todo" value. Add switching button for revert back to "add Todo" feature.
+Change add new task button's value "Add Todo" to "Update Todo" value. Add a switching button to revert back to the "add Todo" feature.
